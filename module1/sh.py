@@ -27,4 +27,10 @@ class MyOtherClass:
     def __radd__(self, other):
         return 42
 
-#MyClass() + MyOtherClass()  # This will raise NotImplementedError
+MyClass() + MyOtherClass()  # This will raise NotImplementedError
+
+url = "http://example.com" # Sensitive
+url = "ftp://anonymous@example.com" # Sensitive
+url = "telnet://anonymous@example.com" # Sensitive
+
+

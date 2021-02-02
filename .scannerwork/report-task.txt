@@ -1,0 +1,6 @@
+projectKey=python-gitlab-module1
+serverUrl=https://pierre.eu.ngrok.io
+serverVersion=8.7-SNAPSHOT
+dashboardUrl=https://pierre.eu.ngrok.io/dashboard?id=python-gitlab-module1&pullRequest=2
+ceTaskId=AXdia4RLPvhlnZQ2QyBw
+ceTaskUrl=https://pierre.eu.ngrok.io/api/ce/task?id=AXdia4RLPvhlnZQ2QyBw
