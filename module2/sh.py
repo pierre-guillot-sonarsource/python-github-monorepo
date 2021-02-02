@@ -16,3 +16,4 @@ class MyClass:
     def mymethod1(self, foo="Noncompliant"):
         pass
 
+toto = -2
